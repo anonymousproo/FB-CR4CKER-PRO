@@ -14,13 +14,14 @@ crack Facebook account,,, cracking facebook,,facebook account hacking,,facebook 
  - `pip install bs4`
  - `pkg install git`
  - `pip install future`
- - `rm -rf clone-OLD-ids`
- - `git clone `
+ - `rm -rf FB-CR4CKER-PRO`
+ - `git clone https://github.com/anonymousproo/FB-CR4CKER-PRO.git`
  - `ls`
+ - `cd FB-CR4CKER-PRO`
  - `chmod +x **`
  -  `python dark.py`
 # if you have any issue run this tools then try next
-# python fb-clone-old-ids.py
+# python dark.py
 # Note:- 
 # if you have any issue please DM me 
 # follow:- https://www.facebook.com/anonymousproo1
